@@ -11,3 +11,28 @@ header .container, header ul {
 header .fa {
     color: var(--blue);
 }
+.hero {
+    padding: 92px 0;
+    background-image: url(../../img/samolet.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.hero_lead {
+    font-size: 64px;
+    margin: 0 0 32;
+    font-weight: bold;
+    letter-spacing: 14px;
+}
+.hero_desc {
+    font-size: 22px;
+}
+.how-work_subtitle1 {
+    text-align: left;
+}
+.how-work_subtitle2 {
+    text-align: center;
+}
+.how-work_subtitle3 {
+    text-align: right;
+}
