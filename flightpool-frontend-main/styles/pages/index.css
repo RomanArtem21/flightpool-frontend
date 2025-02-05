@@ -1,0 +1,13 @@
+header {
+    padding: 32px 0;
+}
+header .container, header ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+}
+
+header .fa {
+    color: var(--blue);
+}
